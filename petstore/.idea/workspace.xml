@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0f41c629-8845-40b0-9ba2-3aef911a27f3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entities/PetStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entities/enums/FishLivEnv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entities/enums/ProdType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/mariadb/jdbc/Driver.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2QEMCobxrg4o3j0v0v0Js9AvId7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/marcos/Desktop/B3/JAVA/tpnote/Tp_animal_java/petstore",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.build.tools.auto.reload": "ALL",
+    "settings.editor.selected.configurable": "build.tools",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveInnerDialog.RECENTS_KEY">
+      <recent name="entities" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f41c629-8845-40b0-9ba2-3aef911a27f3" name="Changes" comment="" />
+      <created>1684914164339</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684914164339</updated>
+      <workItem from="1684914165335" duration="16128000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
